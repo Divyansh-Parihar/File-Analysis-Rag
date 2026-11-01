@@ -14,6 +14,9 @@ logs/
 # Environment variable files (if added in future)
 .env
 
+# Test / scratch files
+test.py
+
 # OS files
 Thumbs.db
 .DS_Store
