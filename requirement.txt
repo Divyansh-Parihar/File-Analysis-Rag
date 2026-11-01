@@ -1,0 +1,9 @@
+streamlit
+pymupdf 
+python-docx 
+langchain 
+langchain-google-genai 
+langchain-chroma
+chromadb 
+google-generativeai 
+python-dotenv
